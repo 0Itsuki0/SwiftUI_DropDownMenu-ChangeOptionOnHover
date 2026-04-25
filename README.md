@@ -9,6 +9,6 @@ Specifically, with the following behavior.
 - Upon selection (gesture inside the menu), menu dismiss.
 
 
-For more details, please refer to my blog [SwiftUI: Custom Dropdown (Up) Menu + Change Option as Hovering]()
+For more details, please refer to my blog [SwiftUI: Custom Dropdown (Up) Menu + Change Option as Hovering](https://medium.com/@itsuki.enjoy/swiftui-custom-dropdown-up-menu-change-option-as-hovering-d4e0b24c317d)
 
 ![](./demo.gif)
